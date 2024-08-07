@@ -1,0 +1,14 @@
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.AssemblyInfo.cs
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\bin\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.exe
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\bin\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.deps.json
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\bin\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.runtimeconfig.json
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\bin\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\bin\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.pdb
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\refint\Non-Primitive Data Types_Q1_Lists.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.pdb
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.genruntimeconfig.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\ref\Non-Primitive Data Types_Q1_Lists.dll

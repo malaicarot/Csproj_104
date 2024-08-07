@@ -1,0 +1,14 @@
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.AssemblyInfo.cs
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\bin\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.exe
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\bin\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.deps.json
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\bin\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.runtimeconfig.json
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\bin\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\bin\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.pdb
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\refint\Non-Primitive Data Types_Q4_Classes.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.pdb
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.genruntimeconfig.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\ref\Non-Primitive Data Types_Q4_Classes.dll

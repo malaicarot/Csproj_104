@@ -1,0 +1,14 @@
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.AssemblyInfo.cs
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\bin\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.exe
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\bin\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.deps.json
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\bin\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.runtimeconfig.json
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\bin\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\bin\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.pdb
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\refint\Non-Primitive Data Types_Q2_Arrays.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.pdb
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.genruntimeconfig.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\ref\Non-Primitive Data Types_Q2_Arrays.dll

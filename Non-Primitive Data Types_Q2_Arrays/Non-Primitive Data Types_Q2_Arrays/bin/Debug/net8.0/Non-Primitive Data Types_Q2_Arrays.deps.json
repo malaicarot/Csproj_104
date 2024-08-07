@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Non-Primitive Data Types_Q2_Arrays/1.0.0": {
+        "runtime": {
+          "Non-Primitive Data Types_Q2_Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Non-Primitive Data Types_Q2_Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

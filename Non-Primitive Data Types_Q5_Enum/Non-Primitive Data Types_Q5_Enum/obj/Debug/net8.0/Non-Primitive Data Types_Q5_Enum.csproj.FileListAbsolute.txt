@@ -1,0 +1,14 @@
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\bin\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.exe
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\bin\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.deps.json
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\bin\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.runtimeconfig.json
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\bin\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\bin\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.pdb
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.AssemblyInfo.cs
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\refint\Non-Primitive Data Types_Q5_Enum.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.pdb
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.genruntimeconfig.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\ref\Non-Primitive Data Types_Q5_Enum.dll
